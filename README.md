@@ -1,6 +1,6 @@
 # AI Astrologer
 
-<img src="https://github.com/kartika28-ui/Lung-Cancer-Detection-App/blob/main/lung-cancer-detection.jpeg?raw=true" alt="Form Input UI" width="700"/>
+<img src="ai-astrologer.png" width="700"/>
 
 
 A web-based AI-powered astrologer app that generates personalized astrology readings based on your name. Built using Streamlit for instant web access — no installation required.
