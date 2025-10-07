@@ -18,7 +18,7 @@ else:
     st.error("🚨 Missing GROQ_API_KEY! Please add it in your .env file.")
 
 st.set_page_config(
-    page_title="AI Astrologer",
+    page_title="AstroGrok - AI-Powered Astrology Web App",
     page_icon="🔮",
     layout="centered",
 )
