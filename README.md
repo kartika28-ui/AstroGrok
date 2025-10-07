@@ -1,4 +1,4 @@
-# AI Astrologer
+# AstroGrok
 
 <img src="ai-astrologer.png" width="700"/>
 
