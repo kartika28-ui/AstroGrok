@@ -51,15 +51,18 @@ input, textarea, select, .stDateInput, .stTimeInput {
 }
 
 
-div.stButton > button{
-  background-color: #23213b !important;
-  color: #ffffff !important;
-  border: 1px solid #ffffff !important;
-  border-radius: 50px;
-  padding: 10px 24px 10px 24px;
-  margin-top: 20px;
+div.stButton > button {
+    background-color: #23213b !important;  /* normal background */
+    color: #ffffff !important;             /* normal text color */
+    border: 1px solid #ffffff !important;
+    border-radius: 50px;
+    padding: 10px 24px;
+    margin-top: 20px;
+}
 
-
+div.stButton > button:hover {
+    background-color: #3a3890 !important; /* hover background */
+    color: #ffffff !important;            /* hover text color */
 }
 
 
