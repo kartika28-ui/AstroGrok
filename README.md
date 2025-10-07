@@ -3,7 +3,7 @@
 <img src="ai-astrologer.png" width="700"/>
 
 
-A web-based AI-powered astrologer app that generates personalized astrology readings based on your name. Built using Streamlit for instant web access — no installation required.
+A web-based AI-powered astrologer app that generates personalized astrology readings based on your name. Built using Streamlit for instant web access.
 
 ## Deployed Link: https://kartika-m-ai-astrologer.streamlit.app/
 
